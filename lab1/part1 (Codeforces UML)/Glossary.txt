@@ -1,10 +1,13 @@
-guest - person, who is not logged in
+Codeforces
+---------------------------------------------------------------------------------------
+guest - not logged in person
 user - logged in person
 administrator - user with extra rights
 rating - non-negative intenger, used for ranking of users
 round/contest - competition conducted at a fixed time by specific rules
 rated round - round, by results of which the recount of rating occurs
 unrated round - round, results of which do not affect on rating
+virtual round - unrated round, which any user can participate in at preset time 
 friend - user, which another user follows
 rank - one of possible titles, that user has, depending on his rating
 division - separation of users depending on their rating
